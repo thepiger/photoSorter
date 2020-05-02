@@ -1,2 +1,2 @@
-dest
-source
+dest/*
+source/*
